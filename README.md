@@ -26,4 +26,4 @@ The goal is to improve my understanding of frontend development principles and w
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Ahsaan-ullah3236/hotel_Project_Practice.git 
